@@ -1,54 +1,80 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> /Contents 4 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Length 472 >>
+<<
+/BaseFont /Symbol /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260728051817+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260728051817+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1442
+>>
 stream
-BT
-/F1 12 Tf
-50 700 Td
-(NextGrid Technologies - 3-2-1 Backup Checklist) Tj
-0 -20 Td
-50 680 Td
-(1. 3 copies of your data) Tj
-0 -20 Td
-50 660 Td
-(2. 2 different media types) Tj
-0 -20 Td
-50 640 Td
-(3. 1 off-site immutable copy) Tj
-0 -20 Td
-50 620 Td
-(4. Daily backup Email, OneDrive, SharePoint) Tj
-0 -20 Td
-50 600 Td
-(5. 30+ days version history) Tj
-0 -20 Td
-50 580 Td
-(6. Monthly test restore) Tj
-0 -20 Td
-50 560 Td
-(Contact: info@nextgridtechnologies.co.za) Tj
-0 -20 Td
-ET
-endstream
+Gat=+gN)%,&:O:Sls&R@JdCimB)5?YM0#Y7[FrZ[?Q]sq&X*>b6<;XYa*0h,]%O>JZ=^0M!H?AV4ZHP?Yjb#Ls%s8F*l@]8!bDoi5TSiLGQf2,P92/o2:H'R$Wo[1GC;d[0>M]i9ItBC@1Ei!Yja(Ql8cT?5rCa?GLCUNHsr$Y(sn*G_3bN_\.Sc+:R-k^'N&&49[0B3iK5i:lk(1639S]<]S)2B6r05PodPRO+oL.]q\qc'_.30s4Q]EZRf]ja59LH4^?<4\8,X2F;F"Fn)LT#Jpe](F!O@HLgCQ><><iY99(8p/J.lIbcS_>,@L-/e>/Wd)8Q&25i$\G$`Z-)6#NinTH+!if0b8_Vq$\lU"V588E;d$GGN;q(CRue7d^@kQ]!"lu!kQ@+eI;Jh37_.$P^j4*.SWK6!f3Hj`oHHbj7R@\!\:Rcif,Ku1!?&Z1);S=98F5'9#^Bm93&bhaAfO?qq[!DLb^iK%F?EB_N=OP\DX36:b@Rpf?`W@VZa.k/C!akiqU5Y5V+[Ap#m$oR\2Pi"g;Yh\X&u:ON=Me@tbXtQ&&-?AjMGa;\APF/IXR!Pr7elNoM30Q>I^H/4P.U/<`J$#'l7)p8Jhp*H/DhK<(jf2eNZ*O?/*,i+8H/?"7I"H>MkVLuU;=:/o^2,1<?U:B^*2;6,)\.kDktIa]EsW*5K*VFmb7ppBCsq/e"#OaPjc#J9B8cK-`*f6*/(s57@]j+aR6<1-=kKEV7i[bfsq>h290(QEk_HH!3U/M?!\VP[IYZP^*,e;>>hC%Q-UhVI%:6#R@_g2:TNK3m.ii%;*[XLC.l5&c?:aQHag`YhW5$R),2OYP2"i1/_-UD]T(@p[o7(0i)GnO&0`]Ml,_j3I;;U#:4P3DODK&j3+-NUJdNd!7s5]CC^]l<P*>?Puh;<0cl;[PKr%%?>q>2n5ZI%QoZL7QZmSX9TsD=EA0"gU9S&eH@H5XWpu-[*1rDTdF_ep:;.[0+_-mpM8+_(CafPk%f^89'+(M;#J+AWXkZG!GcZ,Z.@hFge&lr:dMnAD?CqKC0p,8#:up"e3-Q.SPU90#rKB'GGdPYT<:ZW(:WQ44KU(7B3On]EU6PI<j0Le1^eDkeq`#/E@(QI-^u+ZDprQ![XI[W^+I\@f,Z_&nBoJJDW-W\`.0l4&FRI/D^XoQcKc:9^5.1j,)(>K6K8JngDjOs+5B029aZlm?d*N<ehtflE`M<[6Z'<8d!2lJl?S(pl&g^I^lE9p=?E)cpm,r[>H`$R^kV/=^aA\0$3X/!VZ#o`OS+XKVpB:UM>MbJ=bjV%TIA$8LMaG541^FSr;c"<7_UT91nPW`KkD9*^'B3FJUk=,+-J($Rq-\5l"ilS`&6-j]R]?sn+5O]]M*K,ZqK/3_CmN6K0-bo4G>:+itZ&c;uA)&7/^9H\f%[">K]R5aFF*3+e8H@@ml8`~>endstream
 endobj
 xref
-0 5
+0 10
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000290 00000 n 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000420 00000 n 
+0000000623 00000 n 
+0000000691 00000 n 
+0000000974 00000 n 
+0000001033 00000 n 
 trailer
-<< /Size 5 /Root 1 0 R >>
+<<
+/ID 
+[<a84f64b97b168530838fa519450b6163><a84f64b97b168530838fa519450b6163>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 10
+>>
 startxref
-813
+2566
 %%EOF
